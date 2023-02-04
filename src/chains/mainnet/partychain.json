@@ -1,0 +1,19 @@
+{
+    "chain_name": "partychain",
+    "api": [
+        "http://209.126.11.245:1317"
+    ],
+    "rpc": ["http://209.126.11.245:26657"],
+    "sdk_version": "0.46.6",
+    "coin_type": "118",
+    "min_tx_fee": "800",
+    "addr_prefix": "party",
+    "logo": "/logos/teaparty.png",
+    "assets": [{
+        "base": "stake",
+        "symbol": "STAKE",
+        "exponent": "6",
+        "coingecko_id": "party", 
+        "logo": "/logos/teaparty.png"
+    }]
+}
