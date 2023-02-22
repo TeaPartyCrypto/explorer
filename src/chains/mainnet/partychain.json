@@ -10,8 +10,8 @@
     "addr_prefix": "party",
     "logo": "/logos/teaparty.png",
     "assets": [{
-        "base": "stake",
-        "symbol": "STAKE",
+        "base": "gram",
+        "symbol": "GRAM",
         "exponent": "6",
         "coingecko_id": "party", 
         "logo": "/logos/teaparty.png"

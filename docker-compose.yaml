@@ -1,7 +1,7 @@
 services:
 
   explorer:
-    image: tmjeff/partyexplorer 
+    image: tmjeff/partyexplorer
     ports:
-      - "8080:8080"
+      - "80:8080"
     
